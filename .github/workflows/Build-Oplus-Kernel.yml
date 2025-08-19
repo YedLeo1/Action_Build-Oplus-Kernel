@@ -16,7 +16,7 @@ on:
           - oneplus_13_v
           - oneplus_13t_v
           - oneplus_ace5_pro_v
-        default: oneplus_13_v
+        default: oneplus_13_t
 
       Chipset:
         description: "开发板代号 // Chipset codename"
